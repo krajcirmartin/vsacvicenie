@@ -1,0 +1,12 @@
+Zadávate¾ poiadal firmu VSA s.r.o., (ïalej len firma) o vytvorenie softvéru spåòajúceho potreby jednoduchého e-learningového systému.
+
+Hlavnımi vıhodami systému eDucate oproti klasickej formy štúdia sú nasledujúce veci:
+•	úspora èasu - vzdelávanie kdeko¾vek a kedyko¾vek
+•	úspora nákladov – nie je nutné cestovanie za vzdelaním, ušetríme èas strávenı cestovaním
+•	flexibilita  - individuálny prístup (pıtam sa uèite¾a, èo neviem a potrebujem), vlastné tempo, prispôsobenie vıuèby schopnostiam a zruènostiam študenta
+•	interaktivita  - uèebné texty obsahujú  multimediálne prvky (zvuk, obraz, animácie), aktívne XML a  PHP prvky, formuláre ...
+•	hyperlinky – odkazy na ïalšie vhodné informácie prínosné pre vzdelávanie bez nutnosti h¾adania vhodnıch zdrojov. Uèebné materiály sú v komprimovanej podobe k dispozícií kurzu, èím je moné kurz vytlaèi – previes z elektronickej do tlaèenej podoby. 
+•	prístup pre ¾ubovo¾nıch záujemcov - monos absolvova rovnaké vzdelanie aj hendikepovanım  študentom, ktorí z istıch dôvodov nemôu chodi do školy a disponujú potrebnım poèítaèovım vybavením.
+
+
+Pre správny chod je potrebné aby administrátor systému mohol pridáva novıch uèite¾ov ako aj vytvára nové kurzy. Administrátor ku vytvorenému kurzu priradí uèite¾a pod¾a jeho zmluvy. Študenti sa pred pouívaním systému musia zaregistrova. Po prihlásení sa budú môc prihlasova na kurzy. Po prihlásení na kurz bude študent musie prihlásenie potvrdi. Uèite¾ kurzu môe prezera prihlášky na kurz ktorı je mu pridelenı a následne ich schva¾ova alebo zamietnu. Uèite¾ môe taktie študentov prihlasova na svoj kurz no kadı študent musí prihlášku potvrdi aby bola platná. Pri upravovaní stránok vie uèite¾ vytvára obsah vo WYSIWYG editore, importova obsah, pridáva súbory na stiahnutie a meni rozloenie elementov.
