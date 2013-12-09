@@ -9,4 +9,5 @@ Hlavnımi vıhodami systému eDucate oproti klasickej formy štúdia sú nasledujúce v
 •	prístup pre ¾ubovo¾nıch záujemcov - monos absolvova rovnaké vzdelanie aj hendikepovanım  študentom, ktorí z istıch dôvodov nemôu chodi do školy a disponujú potrebnım poèítaèovım vybavením.
 
 
-Pre správny chod je potrebné aby administrátor systému mohol pridáva novıch uèite¾ov ako aj vytvára nové kurzy. Administrátor ku vytvorenému kurzu priradí uèite¾a pod¾a jeho zmluvy. Študenti sa pred pouívaním systému musia zaregistrova. Po prihlásení sa budú môc prihlasova na kurzy. Po prihlásení na kurz bude študent musie prihlásenie potvrdi. Uèite¾ kurzu môe prezera prihlášky na kurz ktorı je mu pridelenı a následne ich schva¾ova alebo zamietnu. Uèite¾ môe taktie študentov prihlasova na svoj kurz no kadı študent musí prihlášku potvrdi aby bola platná. Pri upravovaní stránok vie uèite¾ vytvára obsah vo WYSIWYG editore, importova obsah, pridáva súbory na stiahnutie a meni rozloenie elementov.
+
+
