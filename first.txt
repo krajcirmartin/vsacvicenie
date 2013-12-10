@@ -1,13 +1,12 @@
-Zadávate¾ poiadal firmu VSA s.r.o., (ïalej len firma) o vytvorenie softvéru spåòajúceho potreby jednoduchého e-learningového systému.
+Zadï¿½vateï¿½ poï¿½iadal firmu VSA s.r.o., (ï¿½alej len firma) o vytvorenie softvï¿½ru spï¿½ï¿½ajï¿½ceho potreby jednoduchï¿½ho e-learningovï¿½ho systï¿½mu.
 
-Hlavnımi vıhodami systému eDucate oproti klasickej formy štúdia sú nasledujúce veci:
-•	úspora èasu - vzdelávanie kdeko¾vek a kedyko¾vek
-•	úspora nákladov – nie je nutné cestovanie za vzdelaním, ušetríme èas strávenı cestovaním
-•	flexibilita  - individuálny prístup (pıtam sa uèite¾a, èo neviem a potrebujem), vlastné tempo, prispôsobenie vıuèby schopnostiam a zruènostiam študenta
-•	interaktivita  - uèebné texty obsahujú  multimediálne prvky (zvuk, obraz, animácie), aktívne XML a  PHP prvky, formuláre ...
-•	hyperlinky – odkazy na ïalšie vhodné informácie prínosné pre vzdelávanie bez nutnosti h¾adania vhodnıch zdrojov. Uèebné materiály sú v komprimovanej podobe k dispozícií kurzu, èím je moné kurz vytlaèi – previes z elektronickej do tlaèenej podoby. 
-•	prístup pre ¾ubovo¾nıch záujemcov - monos absolvova rovnaké vzdelanie aj hendikepovanım  študentom, ktorí z istıch dôvodov nemôu chodi do školy a disponujú potrebnım poèítaèovım vybavením.
+Hlavnï¿½mi vï¿½hodami systï¿½mu eDucate oproti klasickej formy ï¿½tï¿½dia sï¿½ nasledujï¿½ce veci:
+ï¿½	ï¿½spora ï¿½asu - vzdelï¿½vanie kdekoï¿½vek a kedykoï¿½vek
+ï¿½	ï¿½spora nï¿½kladov ï¿½ nie je nutnï¿½ cestovanie za vzdelanï¿½m, uï¿½etrï¿½me ï¿½as strï¿½venï¿½ cestovanï¿½m
+ï¿½	flexibilita  - individuï¿½lny prï¿½stup (pï¿½tam sa uï¿½iteï¿½a, ï¿½o neviem a potrebujem), vlastnï¿½ tempo, prispï¿½sobenie vï¿½uï¿½by schopnostiam a zruï¿½nostiam ï¿½tudenta
+ï¿½	interaktivita  - uï¿½ebnï¿½ texty obsahujï¿½  multimediï¿½lne prvky (zvuk, obraz, animï¿½cie), aktï¿½vne XML a  PHP prvky, formulï¿½re ...
+ï¿½	hyperlinky ï¿½ odkazy na ï¿½alï¿½ie vhodnï¿½ informï¿½cie prï¿½nosnï¿½ pre vzdelï¿½vanie bez nutnosti hï¿½adania vhodnï¿½ch zdrojov. Uï¿½ebnï¿½ materiï¿½ly sï¿½ v komprimovanej podobe k dispozï¿½ciï¿½ kurzu, ï¿½ï¿½m je moï¿½nï¿½ kurz vytlaï¿½iï¿½ ï¿½ previesï¿½ z elektronickej do tlaï¿½enej podoby. 
+ï¿½	prï¿½stup pre ï¿½ubovoï¿½nï¿½ch zï¿½ujemcov - moï¿½nosï¿½ absolvovaï¿½ rovnakï¿½ vzdelanie aj hendikepovanï¿½m  ï¿½tudentom, ktorï¿½ z istï¿½ch dï¿½vodov nemï¿½ï¿½u chodiï¿½ do ï¿½koly a disponujï¿½ potrebnï¿½m poï¿½ï¿½taï¿½ovï¿½m vybavenï¿½m.
 
 
 
-dsfasdfasd
